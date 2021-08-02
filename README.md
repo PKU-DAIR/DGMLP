@@ -48,4 +48,4 @@ bash ./src/run.sh
 
 ###Node Classification Results:
 
-![citation_networks_perf](.\citation_networks_perf.png)
+![citation_networks_perf](citation_networks_perf.png)
