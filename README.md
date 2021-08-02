@@ -28,4 +28,4 @@ bash ./src/run.sh
 
 ###Node Classification Results:
 
-![node_classification_on_citation_networks](.\node_classification_on_citation_networks.png)
+![node_classification_on_citation_networks](node_classification_on_citation_networks.png)
